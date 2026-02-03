@@ -122,7 +122,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/SmartShape_186.png": "img8.json",
 "dr/SmartShape_5.png": "img8.json",
 "dr/SmartShape_6.png": "img8.json",
-"dr/Text_Caption_1.png": "img8.json",
 "dr/Text_Caption_11.png": "img8.json",
 "dr/Text_Caption_2.png": "img8.json",
 "dr/Text_Caption_21.png": "img8.json",
@@ -144,4 +143,5 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/Text_Caption_77.png": "img8.json",
 "dr/Text_Caption_78.png": "img8.json",
 "dr/Text_Caption_79.png": "img8.json",
+"dr/Text_Caption_80.png": "img8.json",
 "___":"___"};
